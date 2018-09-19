@@ -55,7 +55,8 @@
 ```
 # 參考書
 ```
-資安防禦指南｜資訊安全架構實務典範 (Defensive Security Handbook: Best Practices for Securing Infrastructure) 
+資安防禦指南｜資訊安全架構實務典範 
+Defensive Security Handbook: Best Practices for Securing Infrastructure
 Lee Brotherston , Amanda Berlin 江湖海
 歐萊禮中文 出版日期:2018-02-14
 chapter 1 擬定資訊安全計畫
