@@ -172,11 +172,29 @@ Chapter 20 微系統架構
 20.5 Windows Containers
 20.6 Nano Server
 ```
-Windows Server 2016實戰寶典：系統升級x容器技術x虛擬化x異質平台整合
+# Windows Server 2016實戰寶典：系統升級x容器技術x虛擬化x異質平台整合
+``` 
 顧武雄  碁峰出版社 2017/07/05
 
-
-
+第1 章 Windows Server 2016 舊系統升級實戰
+第2 章 人員帳戶安全管理指引
+第3 章 伺服器磁碟優化與安全管理
+第4 章 Nano Server 建置與管理
+第5 章 Nano Server 進階管理技法
+第6 章 Hyper-V Server 2016 輕鬆上手
+第7 章 Hyper-V 熱備援架構部署
+第8 章 虛擬機器複寫備援實戰
+第9 章 Hyper-V Server 2016 進階管理秘訣
+第10 章 SDS 軟體定義儲存實戰
+第11 章 SDS 整合Hyper-V 部署
+第12 章 Cluster 的升級與更新實戰
+第13 章 雙Cluster 複寫備援實戰
+第14 章 延展式叢集複寫備援實戰
+第15 章 IIS 網站運行的監視與調校
+第16 章 電腦教室部署管理
+第17 章 實戰Linux 整合 Active Directory
+第18 章 Windows 10 的大量部署
+``` 
 
 # Windows Server容器技術
 ``` 
