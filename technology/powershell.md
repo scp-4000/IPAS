@@ -26,6 +26,9 @@ DOS 指令不區分字母的大小寫，
 ```
 # 常用指令
 
+
+https://www.jianshu.com/p/ea9cd9ecb494
+
 入門級別
 
 　　1. 像檔案系統那樣操作Windows Registry——cd hkcu:
