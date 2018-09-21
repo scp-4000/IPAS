@@ -1,4 +1,6 @@
-# 以後研讀:Windows server 2016
+# Windows server 2016
+
+# Microsoft Windows Server 2016 系統管理與架站實務
 ```
 Microsoft Windows Server 2016 系統管理與架站實務
 施威銘研究室  旗標出版社  2017/08/15
@@ -37,8 +39,8 @@ Microsoft Windows Server 2016 系統管理與架站實務
 第21章 IIS 網頁伺服器 – 安全管理與多站台應用 
 第22章 FTP 檔案伺服器
 ```
+# Windows Server 2016系統管理與伺服器建置實戰
 ```
-Windows Server 2016系統管理與伺服器建置實戰
 酆士昌   博碩出版社   2016/12/07
 
 【Part01 安裝與基礎管理篇】
@@ -173,8 +175,27 @@ Chapter 20 微系統架構
 Windows Server 2016實戰寶典：系統升級x容器技術x虛擬化x異質平台整合
 顧武雄  碁峰出版社 2017/07/05
 
+
+
+
+# Windows Server容器技術
+``` 
+Learning Windows Server Containers 
+作者： Srikanth Machiraju	
+譯者： 	王偉任
+書號： ACA023800	    出版日： 2017/12/22
+．如何設定開發環境，並了解Docker技術名詞
+．在Windows Server Container運作環境中，如何透過Docker CLI管理容器
+．如何透過Visual Studio 2015、.NET Core和C#等工具，建立及部署ASP.NET Core Web應用程式
+．如何使用PowerShell及Docker CLI將應用程式轉換為Windows Server容器
+．如何使用Microsoft Azure公有雲服務進行容器的遠端部署
+．如何建立不同用途的容器虛擬網路及客製化虛擬網路環境後部署及運作容器
+．如何透過Visual Studio Team Services、Docker Hub及Git等機制，建構持續整合（CI）及持續交付（CD）運作環境
+．如何使用Docker Swarm及Azure Container Service進行容器與叢集的管理
+．如何使用PowerShell DSC自動化配置Nano Server運作環境
 ```
-戴有煒  碁峰出版社
+# 戴有煒  碁峰出版社
+```
 Windows Server 2016系統建置實務
 Windows Server 2016網路與網站建置實務
 Windows Server 2016 Active Directory建置實務
