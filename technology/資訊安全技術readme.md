@@ -33,6 +33,18 @@
 第二次上課:十一月中星期六(後續公告)
 
 ```
+```
+Common Vulnerabilities and Exposure (CVE)
+https://zh.wikipedia.org/wiki/通用漏洞披露
+https://cve.mitre.org/
+
+Common Vulnerabilities Scoring System (CVSS):https://www.first.org/cvss/
+
+OWASP: https://www.owasp.org/index.php/Main_Page
+
+NIST Special Publication 800-12: An Introduction to Computer Security – The NIST Handbook: 
+https://csrc.nist.gov/publications/detail/sp/800-12/archive/1995-10-02
+```
 # 網管工程師升級==>SSCP®資安專業人員
 ```
 SSCP®資安專業人員認證(Systems Security Certified Practitioner)是一張針對企業組織中負責網路及系統管理的相關人員，
