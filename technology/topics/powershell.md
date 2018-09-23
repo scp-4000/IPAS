@@ -119,6 +119,15 @@ PowerShell 的進階管理技巧，例如，升級/降級網域控制站、檢�
 使用 PowerShell 設定及管理 DFS-N 及 DFS-R 運作環境。
 ```
 ```
+分散式檔案系統 (DFS)
+https://en.wikipedia.org/wiki/Distributed_File_System_(Microsoft)
+
+[DFS 命名空間(DFS-N)DFS Namespaces]和 [DFS 複寫(DFS-R)]概觀
+https://msdn.microsoft.com/zh-tw/library/jj127250(v=ws.11).aspx
+
+https://docs.microsoft.com/zh-tw/windows-server/storage/dfs-namespaces/dfs-overview
+```
+```
 01 讓我們開始吧
 02 管理使用者及電腦物件
 03 了解 Active Directory 群組及成員關係
