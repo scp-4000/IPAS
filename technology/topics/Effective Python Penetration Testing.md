@@ -117,6 +117,15 @@ Use urllib/urllib2 to create an HTTP request that will fetch the webpage, and us
 To parse an entire website we can use Scrapy, which helps to create web spiders
 Use requests module to fetch and lxml to parse
 ```
+### 使用urllib模組:headers.py
+```
+import urllib
+url = urllib.urlopen("http://packtpub.com/")
+response_headers = url.info()
+#print response_headers
+#print response_headers.keys()
+print response_headers['server']
+```
 
 ### 使用requests模組
 ```
@@ -131,14 +140,32 @@ print response.content # Response Content
 # Request
 print response.request.headers # Headers we sent
 ```
+### 使用BeautifulSoup模組: Parsing HTML using BeautifulSoup
 
-### headers.py
+butifulSoapExamples.py
 ```
-import urllib
-url = urllib.urlopen("http://packtpub.com/")
-response_headers = url.info()
-#print response_headers
-#print response_headers.keys()
-print response_headers['server']
+from bs4 import BeautifulSoup
+import re
+
+parse = BeautifulSoup('<html><head><title>Title of the page</title></head><body><p id="para1" align="center">This is a paragraph<b>one</b><a href="http://example1.com">Example Link 1</a> </p><p id="para2">This is a paragraph<b>two</b><a href="http://example.2com">Example Link 2</a></p></body></html>')
+
+print parse.prettify()
 ```
+### 使用lxml模組: Parsing HTML with lxml
+```
+#!/bin/python
+#Importing modules
+from lxml import html
+import requests
+import itertools
+
+response = requests.get('http://packtpub.com/')
+tree = html.fromstring(response.content)
+#Create the list of Books:
+books = tree.xpath('//div[@class="book-block-title"]/text()')
+
+
+print books
+```
+
 
