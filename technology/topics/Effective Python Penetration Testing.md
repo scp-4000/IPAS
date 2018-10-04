@@ -1,10 +1,10 @@
-Effective Python Penetration Testing
+# Effective Python Penetration Testing 有效的PYTHON滲透測試技術
 
 https://www.packtpub.com/networking-and-servers/effective-python-penetration-testing
 
-Python2
+# 使用Python2
 
-# What You Will Learn
+# 你會學到甚麼(What You Will Learn)
 ```
 Write Scapy scripts to investigate network traffic
 Get to know application fingerprinting techniques with Python
@@ -20,13 +20,13 @@ Automate pentesting with Python tools and libraries
 Setting up the scripting environment
 Installing third-party libraries
 Python language essentials
-Summary
 
-2: ANALYZING NETWORK TRAFFIC WITH SCAPY
+
+2: ANALYZING NETWORK TRAFFIC WITH SCAPY(超強的網站工具)
 Sockets modules
 Raw socket programming
 Investigate network traffic with Scapy
-Summary
+
 
 3: APPLICATION FINGERPRINTING WITH PYTHON
 Web scraping
@@ -34,9 +34,9 @@ Parsing HTML with lxml
 OS fingerprinting
 Get the EXIF data of an image
 Web application fingerprinting
-Summary
 
-4: ATTACK SCRIPTING WITH PYTHON
+
+4: ATTACK SCRIPTING WITH PYTHON===使用PYTHON攻擊網站
 Injections
 Broken authentication
 Cross-site scripting (XSS)
@@ -47,9 +47,9 @@ Missing function level access control
 CSRF attacks
 Using components with known vulnerabilities
 Unvalidated redirects and forwards
-Summary
 
-5: FUZZING AND BRUTE-FORCING
+
+5: FUZZING(模糊測試) AND BRUTE-FORCING(暴力攻擊)
 Fuzzing
 Classification of fuzzers
 Fuzzing and brute-forcing passwords
@@ -58,7 +58,7 @@ SSH brute-forcing
 SMTP brute-forcing
 Brute-forcing directories and file locations
 Brute-force cracking password protected ZIP files
-Summary
+
 
 6: DEBUGGING AND REVERSE ENGINEERING
 Reverse engineering
@@ -68,20 +68,20 @@ Disassembling with Capstone
 PEfile with Capstone
 Debugging
 Using PyDBG
-Summary
 
-7: CRYPTO, HASH, AND CONVERSION FUNCTIONS
+
+7: CRYPTO, HASH, AND CONVERSION FUNCTIONS 加密 解密
 Cryptographic algorithms
 Hash functions
-Summary
 
-8: KEYLOGGING AND SCREEN GRABBING
+
+8: KEYLOGGING鍵盤側錄 AND SCREEN GRABBING螢幕側錄
 Keyloggers
 Keyloggers with pyhook
 Screen grabbing
-Summary
 
-9: ATTACK AUTOMATION
+
+9: ATTACK AUTOMATION自動化攻擊技術
 Paramiko
 python-nmap
 W3af REST API
@@ -89,9 +89,8 @@ Metasploit scripting with MSGRPC
 ClamAV antivirus with Python
 OWASP ZAP from Python
 Accessing Nessus 6 API with Python
-Summary
 
-10: LOOKING FORWARD
+10: LOOKING FORWARD更多PYTHON寫成的工具
 Pentestly
 Twisted
 Nscan
@@ -101,8 +100,8 @@ Immunity Debugger
 pytbull
 ghost.py
 peepdf
-Summary
 ```
+
 # 第三章:Application Fingerprinting with Python
 ```
 Web scraping
