@@ -1,4 +1,11 @@
 # 1_2_通訊安全(Communication Security)
+```
+Handbook of Communications Security
+https://www.witpress.com/books/978-1-84564-768-1
+```
+
+Network Time Protocol (NTP) security 
+
 
 # 有線網路通訊(Wired Communication)
 
