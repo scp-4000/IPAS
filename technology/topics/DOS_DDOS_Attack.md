@@ -26,3 +26,14 @@ http://topspeedsnail.com/user-nping-hping3-dos/
 簡單的SYN洪水攻擊：hping3 -S --flood -V testsite.com
 
 TCP連接攻擊：nping --tcp-connect -rate=90000 -c 900000 -q testsite.com
+
+# DOS 類型:
+
+Application layer DDoS attack (sometimes referred to as layer 7 DDoS attack)
+
+HTTP-DOS
+
+XML-DOS: https://en.wikipedia.org/wiki/XML_denial-of-service_attack
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7253&rep=rep1&type=pdf
+
