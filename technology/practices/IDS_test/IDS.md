@@ -4,6 +4,11 @@ Use Low Orbit Ion Cannon (LOIC) to test the Snort
 
 http://pages.mtu.edu/~xinlwang/itseed/labs/intrusion_detection_intro2Snort_LOIC.pdf
 
+
+# security-onion
+
+https://github.com/Security-Onion-Solutions/security-onion/blob/master/Verify_ISO.md
+
 # snort
 
 ### snort運作模式:(三種模式)
