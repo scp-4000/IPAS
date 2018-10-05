@@ -7,6 +7,8 @@ http://pages.mtu.edu/~xinlwang/itseed/labs/intrusion_detection_intro2Snort_LOIC.
 
 https://s3.amazonaws.com/snort-org-site/production/document_files/files/000/000/129/original/snort_manual.pdf
 
+https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf
+
 >* Sniffer mode:傾(竊)聽模式
 ```
    simply reads the packets off of the network and displays them for you in a continuous stream on the console (screen).
