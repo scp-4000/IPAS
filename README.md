@@ -2,6 +2,10 @@
 
 https://tinyurl.com/y7gpzvqg 
 
+# Learning Computer Security
+
+https://gist.github.com/nfarrar/b7fc7ded1858be854251
+
 # 崑山科技大學資工系專業認證輔導班
 >* iPAS經濟部產業人才能力鑑定
 >* 2018年最最火紅的  資訊安全工程師
