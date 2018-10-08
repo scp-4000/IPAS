@@ -27,12 +27,7 @@
 4.2行動裝置安全概論
 4.3物聯網安全概論
 ```
-```
-第一次上課:十月底星期六(後續公告)
 
-第二次上課:十一月中星期六(後續公告)
-
-```
 ```
 Common Vulnerabilities and Exposure (CVE)
 https://zh.wikipedia.org/wiki/通用漏洞披露
