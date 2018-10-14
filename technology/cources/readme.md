@@ -4,6 +4,14 @@ Udemy
 
 https://www.udemy.com/security-awareness-training/
 
+
+★★★Certified WhiteHat Hacker Level 1 ( CWHH Level 1)
+https://www.udemy.com/certified-whitehat-hacker-level-1/
+
+★★★Certified White Hat Hacker Level 2 (CWHH Level 2)
+https://www.udemy.com/certified-white-hat-hacker-level-2/
+
+
 # Networks Security
 
 Computer Networks Security from Scratch to Advanced
@@ -42,6 +50,9 @@ https://www.udemy.com/windows-server-2016-administration-and-deployment/
 Mastering Group Policy on Windows Server 2016 w/ Lab Access
 https://www.udemy.com/mastering-group-policy-on-windows-server-2016/
 
+The Python Ethical Hacking Course: Windows Keylogger
+https://www.udemy.com/the-windows-keylogger-mini-python-ethical-hacking-course/
+
 # System(Infrastructure) Seuciry: Linux Seuciry
 
 Linux Security: The Complete Iptables Firewall Guide
@@ -71,8 +82,14 @@ https://www.udemy.com/advanced-linux-administration/
 Linux Performance Monitoring & Analysis
 https://www.udemy.com/linux-performance-monitoring-analyzing/
 
+Red Hat Certified System Admin - SA1
+https://www.udemy.com/linux-startup-red-hat-certified-systems-administrator/
+
 Red Hat Certified System Admin - SA2
 https://www.udemy.com/red-hat-system-administration-rh134/
+
+Linux Academy Red Hat Certified Engineer Prep
+https://www.udemy.com/linux-academy-red-hat-certified-engineer-prep/
 
 # Web Security
 
@@ -89,8 +106,34 @@ Learn Web Hacking &Penetration Testing as a Black Hat Hacker
 https://www.udemy.com/web-application-ethical-hacking/
 
 
-# Cloud Security
-IT Security Gumbo: Cloud Security Technology
+# log management
 
+
+Penetration Testing with Metasploit & Analyzing the IDS logs
+https://www.udemy.com/penetration-testing-using-metasploit/
+
+Docker Swarm Advanced: Centralized Logging and Monitoring
+
+Elastic Stack: Beats, Logstash, Elasticsearch y Kibana
+https://www.udemy.com/elastic-stack-beats-logstash-elasticsearch-y-kibana/
+
+# mobile security
+
+Android ​Hacking And Security Using Kali Linux
+https://www.udemy.com/android-hacking-and-security-using-kali-linux/
+
+https://www.udemy.com/mobile-devices-hacking-and-security-android-ios/
+
+# Cloud Security
+
+IT Security Gumbo: Cloud Security Technology
 https://www.udemy.com/it-security-gumbo/
+
+#  IoT Security
+
+Fundamentals of IoT Security
+https://www.udemy.com/fundamentals-of-iot-security/
+
+Security Engineering for the IoT
+https://www.udemy.com/security-engineering-for-the-iot/
 
