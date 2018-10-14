@@ -55,13 +55,13 @@ https://www.udemy.com/the-windows-keylogger-mini-python-ethical-hacking-course/
 
 # System(Infrastructure) Seuciry: Linux Seuciry
 
-Linux Security: The Complete Iptables Firewall Guide
+★★★Linux Security: The Complete Iptables Firewall Guide
 https://www.udemy.com/linux-security-the-complete-iptables-firewall-guide/
 
 Linux Security and Hardening, The Practical Security Guide.
 https://www.udemy.com/linux-security/
 
-Network Security Analysis Using Wireshark, Snort, and SO
+★★★Network Security Analysis Using Wireshark, Snort, and SO
 https://www.udemy.com/network-security-analysis-using-wireshark-snort-and-so/
 
 零基础七天入门Linux
