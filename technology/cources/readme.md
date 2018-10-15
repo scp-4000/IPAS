@@ -1,3 +1,7 @@
+Computer and Network Security  by  Avinash Kak
+https://engineering.purdue.edu/kak/compsec/NewLectures/
+
+
 Udemy
 
 # Security Awareness Training
