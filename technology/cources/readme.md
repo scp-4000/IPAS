@@ -64,6 +64,30 @@ https://www.udemy.com/linux-security/
 ★★★Network Security Analysis Using Wireshark, Snort, and SO
 https://www.udemy.com/network-security-analysis-using-wireshark-snort-and-so/
 
+
+★★★Practical Linux Security Solutions Tajinder Kalsi  Tuesday, July 31, 2018
+https://www.packtpub.com/networking-and-servers/practical-linux-security-solutions-video
+
+Mastering Linux Security [Video]  Marc Heuse  Tuesday, July 31, 2018
+https://www.packtpub.com/networking-and-servers/mastering-linux-security-video
+
+Practical Linux Security Cookbook - Second Edition  Tajinder Kalsi  August 2018 
+https://www.packtpub.com/networking-and-servers/practical-linux-security-cookbook-second-edition
+
+Practical Linux Security Cookbook - Second Edition  Tajinder Kalsi  August 2018 
+https://www.packtpub.com/networking-and-servers/practical-linux-security-cookbook-second-edition
+
+
+PowerShell 6.0 Linux Administration Cookbook  Prashanth Jayaram, Ram Iyer  October 2018
+https://www.packtpub.com/networking-and-servers/powershell-60-linux-administration-cookbook
+
+
+Linux Server Security  Aubrey Love II  Wednesday, May 23, 2018
+https://www.packtpub.com/virtualization-and-cloud/linux-server-security-video
+
+Advanced Linux System Administration Paul Olushile Friday, August 31, 2018
+https://www.packtpub.com/virtualization-and-cloud/advanced-linux-system-administration-video
+
 零基础七天入门Linux
 https://www.udemy.com/linux-zh/
 
