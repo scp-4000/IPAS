@@ -47,6 +47,10 @@ Zend Framework
 ```
 # reference
 ```
+PHP 7從入門到精通
+作者： 劉增傑;張工廠
+清華大學出版社有限公司
+
 第1章 初識PHP
 1.1　PHP的來龍去脈
 1.2　PHP能幹什麼
