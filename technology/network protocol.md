@@ -38,7 +38,13 @@ Layer-functionties-protocol-hardware-data format
 
 # TCP vs OSI
 
+# protocol協定
 
-
+### telnet
+>* 遠端連線
+>* 一種應用層協定
+>* 1969年開發出來
+>* 使用虛擬終端機的形式，提供雙向、以文字字串為主的命令列介面互動功能
+>* 不安全
 
 
