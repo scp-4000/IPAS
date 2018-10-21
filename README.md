@@ -1,3 +1,10 @@
+
+# 
+
+https://ctf-wiki.github.io/ctf-wiki/introduction/resources/
+
+http://taipei.iiiedu.org.tw/
+
 # 練習平台 120.114.62.89
 
 # iPAS 上課時程表與上課主題
