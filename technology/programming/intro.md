@@ -254,8 +254,7 @@ TRANSPOSE，MAXVAL，MINVAL，PRODUCT及SUM等。
 (二)最早提供保留字(reserved word)。
 (三)要求外顯變數宣告(explicit variable declaration)。
 (四)反覆敘述(iteration)為FOR敘述，此為高階語言中最複雜的迴圈敘述。
-(五)最先引進區段結構(block structure)、結構化程式設計及遞迴程序(recursive 
-procedure)。
+(五)最先引進區段結構(block structure)、結構化程式設計及遞迴程序(recursive procedure)。
 (六)主程式與副程式之間預設的參數傳遞法為call by name。
 (七)提供堆疊動態陣列(stack-dynamic array)。
 (八)嚴密的語法定義：首先以BNF來描述語法。
@@ -334,8 +333,10 @@ procedure)。
 
 十三、BASIC ( Beginner's AII-purpose Symbolic Instruction Code, 1964)
 (一)簡單而且易學，與FORTRAN程式語言的特徵類似，文法、規則及結構與一般的數學公式非常接近。
-(二)具有交談性( interactive) 當計算機碰到立即執行型敘述( immediate execution mode statement) (亦即不以列號前導的敘述)時就直接將該敘述解碼並且執行，因此使用者可透過立即執行型敘述與計算機直接作交談;這種交談的特性適合於教學。
-(三)由直譯程式( interpreter )執行:按程式執行時敘述的邏輯順序逐條翻譯並且執行，所需求的記憶體空問很小，因此目前許多小型及微型計算機都採用BASIC為基本的程式語言。
+(二)具有交談性( interactive) 當計算機碰到立即執行型敘述( immediate execution mode statement) 
+    (亦即不以列號前導的敘述)時就直接將該敘述解碼並且執行，因此使用者可透過立即執行型敘述與計算機直接作交談;這種交談的特性適合於教學。
+(三)由直譯程式( interpreter )執行:按程式執行時敘述的邏輯順序逐條翻譯並且執行，所需求的記憶體空問很小，
+     因此目前許多小型及微型計算機都採用BASIC為基本的程式語言。
 (四)BASIC語言的缺點包括：
 1.結構鬆散，大量使用GOTO易破壞程式結構。
 2.缺乏局部變數和整體變數的概念，大程式不易維護。
