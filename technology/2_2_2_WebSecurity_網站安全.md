@@ -9,7 +9,7 @@
 
 # 網站資安事件
 
-# 網站威脅類型: OWASP TOP 10
+# 網站威脅類型: OWASP TOP 10:https://www.ithome.com.tw/news/118411
 
 # 實戰網站安全:DVWA
 
