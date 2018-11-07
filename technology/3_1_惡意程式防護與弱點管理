@@ -25,6 +25,14 @@ Wannacry
 弱點管理(Vulnerability management)
 https://en.wikipedia.org/wiki/Vulnerability_management
 
+Vulnerability Management 101 - Best Practices for Success [Complete Webinar]
+https://www.youtube.com/watch?v=iYsrJLihZ-c
+
+Vulnerability Management Isn't Simple ... (or, How to Make Your VM Program Great)
+https://www.youtube.com/watch?v=67Mz_pjlPSk
+
+Security in 30: Vulnerability Management
+https://www.youtube.com/watch?v=jYZWT2TxaKw
 ```
 
 ### 弱點(漏洞)評估(測試)[Vulnerability assessment]
@@ -36,9 +44,32 @@ https://en.wikipedia.org/wiki/Vulnerability_assessment
 # 弱點管理:功能及產品
 ```
 Qualys自動化弱點管理及智慧型工作流程整合
+
+Introduction to QualysGuard Vulnerability Management
+https://www.youtube.com/watch?v=24POcS5PLaE
+```
+```
+QRadar Vulnerability Manager in action
+https://www.youtube.com/watch?v=J5t3IzaRZS4
+```
+```
+QRadar Vulnerability Manager Configuration and Usage - 10 July 2015 Open Mic by India Support Team
+https://www.youtube.com/watch?v=KC2H5tt-7zI
+```
+```
+QRadar Vulnerability Manager in action
+https://www.youtube.com/watch?v=J5t3IzaRZS4
+```
+# [系統]弱點掃描(漏洞掃描)
+
+### 弱點掃描工具-Nexpose
+```
+The Nexpose Vulnerability Scanner
+https://www.youtube.com/watch?v=N25Kqch1OjA
+
+http://www.cc.ntu.edu.tw/chinese/epaper/0035/20151220_3506.html
 ```
 
-# [系統]弱點掃描(漏洞掃描)
 
 # [網站]弱點掃描(漏洞掃描)
 ```
