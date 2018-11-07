@@ -19,3 +19,38 @@ software| Hardware| Firmware|Malware
 ### 惡意程式(Malware)案例:
 
 Wannacry
+
+# 弱點管理(Vulnerability management)與
+```
+弱點管理(Vulnerability management)
+https://en.wikipedia.org/wiki/Vulnerability_management
+
+```
+
+### 弱點(漏洞)評估(測試)[Vulnerability assessment]
+```
+https://en.wikipedia.org/wiki/Vulnerability_assessment
+
+```
+
+# 弱點管理:功能及產品
+```
+Qualys自動化弱點管理及智慧型工作流程整合
+```
+
+# [系統]弱點掃描(漏洞掃描)
+
+# [網站]弱點掃描(漏洞掃描)
+```
+Scanning WebSite using Nikto Perl Scanner on Kali Linux
+https://www.youtube.com/watch?v=31Gqp5chSpo
+```
+
+```
+Kali Linux 2 0 Sana - NIKTO Web vulnerability scanner
+https://www.youtube.com/watch?v=rfjzfuxkpjQ
+```
+```
+Nikto Web Vulnerability Scanner - Web Penetration Testing - #1
+https://www.youtube.com/watch?v=GH9qn_DBzCk
+```
