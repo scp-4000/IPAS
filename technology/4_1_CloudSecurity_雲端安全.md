@@ -21,6 +21,12 @@ Build, test, and deploy Docker applications with Kubernetes while learning produ
 4.7 (1694 個評等)  11469 名學生註冊  建立者： Stephen Grider  上次更新 10/2018
 https://www.udemy.com/docker-and-kubernetes-the-complete-guide/
 ```
+```
+Kubernetes技术入门与实战
+通过实际操作讲解Kubernetes基本概念和使用
+4.6 (31 個評等)  193 名學生註冊  建立者： Peng Xiao  上次更新 10/2018
+```
+
 # 雲端運算cloud computing
 
 ### 定義
