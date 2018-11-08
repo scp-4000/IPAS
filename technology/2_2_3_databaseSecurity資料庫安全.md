@@ -1,4 +1,39 @@
-# 2_2_3_databaseSecurity資料庫安全
+# 2_2_3_database Security資料庫安全
+
+```
+Database Security for Cyber Professionals
+Learn to Hack and Protect Relational Databases
+4.2 (25 個評等)  606 名學生註冊  建立者： Chad Russell  上次更新 2/2017
+
+```
+
+```
+Learn Secure Database Administration: MS SQL Server Security
+Learn advanced skills to be a SQL Server professional and hardening Microsoft SQL Server securing SQL+ SQL Server login
+4.9 (3 個評等)  17 名學生註冊 上次更新 7/2018
+建立者： Zulqarnain Hayat, OCP ®, OCM®, MCSD ®, Solaris (SA,SNA) ®,RHCE®,VCP ®
+https://www.udemy.com/securing-microsoft-sql-server/
+```
+```
+Learn Secure Database Administration: MS SQL Server Security
+Installing, configuring and hardening Microsoft SQL Server
+3.9 (15 個評等)  91 名學生註冊  建立者： FeltSecure Labs  上次更新 12/2017
+https://www.udemy.com/mssql-server-security/
+```
+```
+Introduction to Oracle Database Backup and Security
+A Practical hands-on guide to backing up and restoring Oracle Databases and Implementing security
+3.9 (26 個評等)   1181 名學生註冊   建立者： Bluelime Learning Solutions  上次更新 4/2017
+https://www.udemy.com/introduction-to-oracle-database-backup-and-security/
+```
+```
+Oracle Cloud Security Data Protection and Encryption
+Get the groundwork for DBA about Oracle database cloud Security hands-on step by step including SQL commands and scripts
+4.5 (21 個評等)   80 名學生註冊 上次更新 3/2018
+建立者： Zulqarnain Hayat, OCP ®, OCM®, MCSD ®, Solaris (SA,SNA) ®,RHCE®,VCP ®
+https://www.udemy.com/oracle-database-12c-securitydata-protection-and-encryption/
+```
+
 
 # database資料庫: SQL vs NoSQL
 
@@ -46,3 +81,4 @@ SQL 資料庫 vs Nosql 資料庫
 
 
 # 資料庫管理系統
+
