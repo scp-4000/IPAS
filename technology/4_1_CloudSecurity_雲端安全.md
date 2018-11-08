@@ -17,19 +17,19 @@ https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf
 ```
 ### NIST==National Institute of Standards and Technology==美國國家標準暨技術研究院
 ```
-美國國家標準暨技術研究院（National Institute of Standards and Technology，簡寫為NIST）的前身為國家標準局（NBS，1901年~1988年），
+美國國家標準暨技術研究院（National Institute of Standards and Technology，簡寫為NIST）
+前身為國家標準局（NBS，1901年~1988年），
 是一家測量標準實驗室，屬於美國商務部的非監管機構。該研究所的官方使命為：
-
-Promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology 
-in ways that enhance economic security and improve our quality of life.
+Promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, 
+and technology in ways that enhance economic security and improve our quality of life.
 促進美國的創新和產業競爭力，推進度量衡學、標準、技術以提高經濟安全並改善我們的生活質量。
 
-
-NIST僱傭有大約2900名科學家、工程師、科技工作者，以及後勤和管理人員，大約1800名輔助工作人員（來自美國公司和國外的工程師和研究員），
+NIST僱傭有大約2900名科學家、工程師、科技工作者，以及後勤和管理人員，
+大約1800名輔助工作人員（來自美國公司和國外的工程師和研究員），
 另外還有1400名專家分布在國內約350個附屬研究中心裡。
 ```
 
-### 五大特色Essential Characteristics:
+### 雲端運算五大特色Essential Characteristics:
 
 [1]On-demand self-service. 
 ```
@@ -65,7 +65,7 @@ and active user accounts). Resource usage can be monitored, controlled, and repo
 transparency for both the provider and consumer of the utilized service.
 ```
 
-### 類型==服務模型Service Models:
+### 雲端運算類型==服務模型Service Models:
 
 [1]Software as a Service (SaaS)==> Gmail, office 365,  youtube, facebook,
 ```
@@ -76,7 +76,7 @@ underlying cloud infrastructure including network, servers, operating systems, s
 even individual application capabilities, with the possible exception of limited userspecific
 application configuration settings.
 ```
-[1]Platform as a Service (PaaS)==> Google Cloud platform, Microsoft Azure Platform, Amazon Web Services Cloud
+[2]Platform as a Service (PaaS)==> Google Cloud platform, Microsoft Azure Platform, Amazon Web Services Cloud
 ```
 The capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications 
 created using programming.
@@ -94,13 +94,15 @@ The consumer does not manage or control the underlying cloud infrastructure incl
 operating systems, or storage, but has control over the deployed applications and possibly
 configuration settings for the application-hosting environment.
 ```
-[2]Infrastructure as a Service (IaaS). 
+[3]Infrastructure as a Service (IaaS)==> Google Cloud platform, Microsoft Azure Platform, Amazon Web Services Cloud
+```
 The capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources 
 where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. 
 The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, 
 storage, and deployed applications; and possibly limited control of select networking components (e.g., host firewalls).
 ```
-### 部屬模型Deployment Models:
+
+### 雲端運算部屬模型Deployment Models:
 
 [1]Private cloud私有雲
 ```
