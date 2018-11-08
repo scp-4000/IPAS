@@ -9,7 +9,8 @@ Learn to Hack and Protect Relational Databases
 
 ```
 Learn Secure Database Administration: MS SQL Server Security
-Learn advanced skills to be a SQL Server professional and hardening Microsoft SQL Server securing SQL+ SQL Server login
+Learn advanced skills to be a SQL Server professional and 
+hardening Microsoft SQL Server securing SQL+ SQL Server login
 4.9 (3 個評等)  17 名學生註冊 上次更新 7/2018
 建立者： Zulqarnain Hayat, OCP ®, OCM®, MCSD ®, Solaris (SA,SNA) ®,RHCE®,VCP ®
 https://www.udemy.com/securing-microsoft-sql-server/
