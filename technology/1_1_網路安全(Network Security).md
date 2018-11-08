@@ -12,6 +12,38 @@ TCP/IP網路協定
 網路安全技術:IDS
 網路安全技術:SOC
 ```
+# 參考課程
+```
+Security Awareness Training
+A basic guide to staying safe online and to introduce new knowledge to people about internet security and privacy.
+4.5 (2952 個評等) 5849 名學生註冊  建立者： Michael Biocchi 上次更新 6/2018
+https://www.udemy.com/security-awareness-training/
+```
+```
+The Absolute Beginners Guide to Information & Cyber Security
+Learn all the basic concepts and gain valuable insights into the world of Information and Cyber security
+4.6 (886 個評等)   3932 名學生註冊  建立者： Alexander Oni  上次更新 9/2018
+https://www.udemy.com/the-absolute-beginners-guide-to-information-cyber-security/
+```
+```
+The Complete 2018 Cyber Security Guide for Beginners
+Take your basic knowledge of cyber security concepts and topics to a whole new level with this exciting course
+4.6 (135 個評等)   803 名學生註冊  建立者： Alexander Oni  上次更新 9/2018
+https://www.udemy.com/the-complete-2018-cyber-security-guide-for-non-professionals/
+```
+```
+Security Awareness Training - Internet Security for Everyone
+Basic security awareness guide on Internet security and privacy to keep you, your home, and your employer safe.
+4.3 (322 個評等)   7895 名學生註冊  建立者： Roy Davis 上次更新 1/2018
+https://www.udemy.com/security-awareness-training-internet-security-for-everyone/
+```
+```
+Information Security Management Fundamentals for Non-Techies
+Learn the Fundamentals of Information Security Management for Non-Techies
+4.4 (195 個評等)  3345 名學生註冊  建立者： Alton Hardin  上次更新 7/2017
+https://www.udemy.com/information-security-fundamentals/
+```
+
 # 網路協定與安全網路協定
 
 ```
