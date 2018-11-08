@@ -15,6 +15,12 @@ Docker技術入門與實戰
 https://www.udemy.com/docker-china/
 ```
 
+```
+Docker and Kubernetes: The Complete Guide
+Build, test, and deploy Docker applications with Kubernetes while learning production-style development workflows
+4.7 (1694 個評等)  11469 名學生註冊  建立者： Stephen Grider  上次更新 10/2018
+https://www.udemy.com/docker-and-kubernetes-the-complete-guide/
+```
 # 雲端運算cloud computing
 
 ### 定義
