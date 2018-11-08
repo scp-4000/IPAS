@@ -29,7 +29,8 @@ https://www.udemy.com/introduction-to-oracle-database-backup-and-security/
 ```
 ```
 Oracle Cloud Security Data Protection and Encryption
-Get the groundwork for DBA about Oracle database cloud Security hands-on step by step including SQL commands and scripts
+Get the groundwork for DBA about Oracle database cloud Security 
+hands-on step by step including SQL commands and scripts
 4.5 (21 個評等)   80 名學生註冊 上次更新 3/2018
 建立者： Zulqarnain Hayat, OCP ®, OCM®, MCSD ®, Solaris (SA,SNA) ®,RHCE®,VCP ®
 https://www.udemy.com/oracle-database-12c-securitydata-protection-and-encryption/
