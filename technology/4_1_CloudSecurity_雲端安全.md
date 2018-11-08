@@ -12,7 +12,8 @@
 
 ### 定義
 ```
-SP 800-145, The NIST Definition of Cloud Computing
+NIST SP800-145== NIST Special Publication (SP) 800-145
+The NIST Definition of Cloud Computing
 https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf
 ```
 ### NIST==National Institute of Standards and Technology==美國國家標準暨技術研究院
@@ -29,7 +30,7 @@ NIST僱傭有大約2900名科學家、工程師、科技工作者，以及後勤
 另外還有1400名專家分布在國內約350個附屬研究中心裡。
 ```
 
-### 雲端運算五大特色Essential Characteristics:
+### 雲端運算五大特色 five Essential Characteristics of Cloud Computing 
 
 [1]On-demand self-service. 
 ```
@@ -131,6 +132,29 @@ The cloud infrastructure is a composition of two or more distinct cloud
 infrastructures (private, community, or public) that remain unique entities, but are bound
 together by standardized or proprietary technology that enables data and application
 portability (e.g., cloud bursting for load balancing between clouds).
+```
+
+# NIST Cloud Computing Reference Architecture (CCRA)
+```
+NIST SP 500-292 
+NIST Cloud Computing Reference Architecture
+https://bigdatawg.nist.gov/_uploadfiles/M0008_v1_7256814129.pdf
+
+NIST SP 500-291,Version 2(2013)
+NIST Cloud Computing Standards Roadmap 
+https://www.nist.gov/sites/default/files/documents/itl/cloud/NIST_SP-500-291_Version-2_2013_June18_FINAL.pdf
+
+NIST SP 500-322 
+Evaluation of Cloud Computing Services Based on NIST 800-145
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-322.pdf
+```
+### 五大參與腳色:The five major participating actors 
+```
+[1]the Cloud Consumer
+[2]Cloud Provider
+[3]Cloud Broker
+[3]Cloud Auditor 
+[5]Cloud Carrier
 ```
 # 雲端資安事件
 
