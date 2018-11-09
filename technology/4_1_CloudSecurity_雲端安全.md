@@ -26,6 +26,12 @@ Kubernetes技术入门与实战
 通过实际操作讲解Kubernetes基本概念和使用
 4.6 (31 個評等)  193 名學生註冊  建立者： Peng Xiao  上次更新 10/2018
 ```
+```
+Learn DevOps: Advanced Kubernetes Usage
+Covering Authentication, Authorization, Logging, Helm, Deploying with Spinnaker, Prometheus, Scheduling and more
+4.2 (425 個評等)  7718 名學生註冊  建立者： Edward Viaene  上次更新 8/2018
+https://www.udemy.com/learn-devops-advanced-kubernetes-usage/
+```
 
 # 雲端運算cloud computing
 
