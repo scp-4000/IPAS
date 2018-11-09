@@ -24,6 +24,14 @@ How to Scan a Web Server with Nikto: https://www.youtube.com/watch?v=lCfWYIO0pdU
 
 # 網站安全防護技術:網站應用程式防火牆modsecurity
 ```
+
+#
+```
+Web网站安全测试（Penetration Testing）- 从初学到精通
+渗透测试 / Website Hacking 学习如何保护他们免受黑客攻击
+4.7 (6 個評等)  63 名學生註冊  建立者： Yan Gao 上次更新 8/2018
+https://www.udemy.com/security-testing-china/
+```
 # 網站開發
 
 ```
