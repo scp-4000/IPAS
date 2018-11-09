@@ -1,6 +1,21 @@
+# 3_2_DataSecurity_資料安全及備份管理BACKUP MANAGEMENT
 
-# 3_2_DataSecurity_資料安全及備份管理
+# 參考課程
+```
+Data Management, Recovery, Backup, Shredding & Encryption
+Recover (Undelete) deleted data, explore backup options, data sanitization and shredding, encrypt your files
+4.2 (40 個評等)  1217 名學生註冊  建立者： Hazem Salam 上次更新 4/2016
+https://www.udemy.com/file-management-and-backup/
 
+Introduction 11 堂講座 32:27
+Data Recovery 7 堂講座 32:25
+Data Backup  5 堂講座  21:42
+Permanent Data Deletion (Data Sanitization): 8 堂講座  24:53
+Data Encryption  5 堂講座  11:45
+```
+
+
+# DataSecurity_資料安全
 ```
 What is Data Security?What does Data Security mean?
 Why Data Security?
@@ -11,14 +26,12 @@ https://software.microfocus.com/en-us/what-is/data-security
 ```
 [Data Security](https://en.wikipedia.org/wiki/Data_security)
 
-
-
-Data security refers to protective digital privacy measures that are applied to prevent unauthorized access to computers, 
+Data security refers to protective digital privacy measures 
+that are applied to prevent unauthorized access to computers, 
 databases and websites. Data security also protects data from corruption. 
 Data security is an essential aspect of IT for organizations of every size and type.
 
 Data security is also known as information security (IS) or computer security.
-
 ```
 
 ### Data masking
@@ -38,6 +51,6 @@ https://en.wikipedia.org/wiki/Data_masking
 
 # 資料不安全事件
 
-# 備份管理
+# 備份管理BACKUP MANAGEMENT
 
 # 備份類型
