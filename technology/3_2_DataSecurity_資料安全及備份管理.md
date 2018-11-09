@@ -13,8 +13,36 @@ Data Backup  5 堂講座  21:42
 Permanent Data Deletion (Data Sanitization): 8 堂講座  24:53
 Data Encryption  5 堂講座  11:45
 ```
-
-
+```
+Master Data Management
+An introductory course about understanding master data management, its building blocks and maturity model.
+3.1 (147 個評等)  734 名學生註冊  建立者： The Art Of Service  上次更新 2/2018
+https://www.udemy.com/master-data-management/
+```
+```
+Data Warehousing
+An introductory course about understanding data warehousing, its architecture, flow, applications and modeling.
+4.0 (47 個評等)
+679 名學生註冊
+建立者： The Art Of Service
+上次更新 3/2015
+https://www.udemy.com/data-warehousing/
+```
+```
+Data Security
+An introductory course about understanding Data Security and the different technologies involved in securing your data.
+3.8 (17 個評等)
+203 名學生註冊
+建立者： The Art Of Service
+上次更新 3/2015
+https://www.udemy.com/data-security/
+```
+```
+AWS Data Security
+Carry out the best practices to protect your valuable data when working with data services on the Amazon cloud
+0.0 (0 個評等)  21 名學生註冊  建立者： Packt Publishing 上次更新 7/2018
+https://www.udemy.com/aws-data-security/
+```
 # DataSecurity_資料安全
 ```
 What is Data Security?What does Data Security mean?
