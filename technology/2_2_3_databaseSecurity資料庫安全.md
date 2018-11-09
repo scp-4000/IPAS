@@ -6,6 +6,12 @@ Learn to Hack and Protect Relational Databases
 4.2 (25 個評等)  606 名學生註冊  建立者： Chad Russell  上次更新 2/2017
 
 ```
+```
+70-461 Session 1-7: Querying Microsoft SQL Server (SQL code)
+Tables, SQL SELECT queries (FROM, WHERE, JOIN), views, tables, Triggers, SQL Server 2012, 2014, 2016, 2017, also 70-761
+暢銷課程  4.4 (565 個評等)  2837 名學生註冊  建立者： Phillip Burton  上次更新 11/2018
+https://www.udemy.com/70-461-session-2-querying-microsoft-sql-server-2012/
+```
 
 ```
 Learn Secure Database Administration: MS SQL Server Security
