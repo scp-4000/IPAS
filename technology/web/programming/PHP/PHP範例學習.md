@@ -65,21 +65,47 @@ showme.inc
 ### 範例程式: PHP101_.php
 >* 
 ```
-
+<!doctype html>
+<html>
+	<head>
+	  <meta charset="utf-8">
+	</head>
+  <body>
+    <?php
+      echo __FILE__;
+      echo "<br>";
+      echo __DIR__;
+    ?>
+  </body>
+</html>
 ```
 
 
 ### 範例程式: PHP101_.php
 >* 
 ```
-
+<?php
+  echo("Hello World!");
+  phpinfo();
+?>
 ```
 
 
 ### 範例程式: PHP101_.php
 >* 
 ```
-
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>我的第一個PHP程式</title>
+  </head>
+  <body>
+    <?php
+      echo("<h1><b><i>Hello World!</i></b></h1>");
+    ?>
+  </body>
+</html>
 ```
 
 
