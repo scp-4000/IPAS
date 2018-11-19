@@ -155,10 +155,10 @@ http://download.nccst.nat.gov.tw/attachfilenew/%E8%AD%B0%E9%A1%8C1_%E8%BB%9F%E9%
 科技部推動SSDLC經驗分享
 http://www.isac.org.tw/spaw2/uploads/files/20161202/%E7%A7%91%E6%8A%80%E9%83%A8%E6%8E%A8%E5%8B%95SSDLC%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB%E7%B0%A1%E5%A0%B1.pdf
 
+安全性軟體開發流程概論 (Secure Software Development Life Cycle Concept)
+http://tprc.tanet.edu.tw/tpnet2017/training/10603.pdf
 
 資訊系統委外開發RFP資安需求範本   https://www.nicst.ey.gov.tw/News_Content3.aspx?n=E8A3CADF59C2DC49&sms=C254FFD10CAFF809&s=2054A0D4623FA608
-
-
 
 ```
 
@@ -182,16 +182,23 @@ Introduction to Data Protection and Information Security  https://www.slideshare
 ```
 Types of Backups | Incremental | Differential | Full    https://www.youtube.com/watch?v=7kHkcp6KCNc
 What is the difference between Full, Incremental, Differential Backup - comparison   https://www.youtube.com/watch?v=0a264Edp5l0
-
-
-What is RAID 0, 1, 5, & 10?   https://www.youtube.com/watch?v=U-OCdTeZLac
 ```
-
 ```
 What is Backup Lifecycle Management?  https://www.youtube.com/watch?v=4k2crYO92aM
-
 ```
+
+### RAID[必考題]
+```
+What is RAID 0, 1, 5, & 10?   https://www.youtube.com/watch?v=U-OCdTeZLac
+What is RAID 0, 1, 2, 3, 4, 5, 6 and 10 (1+0)?
+```
+### SAN/NAS/
+```
+Introduction to Storage Area Networks (SAN)
+```
+
 ### 3.3日誌管理
+各類型日誌
 ```
 
 ```
