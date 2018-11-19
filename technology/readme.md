@@ -59,6 +59,12 @@ Rootkit
 阻斷服務攻擊
 ```
 
+### Network Troubleshooting網路除錯
+```
+Network Troubleshooting using PING, TRACERT, IPCONFIG, NSLOOKUP COMMANDS
+
+```
+
 ### VPN 
 ```
 VPN and VLAN (CISSP Free by Skillset.com)  https://www.youtube.com/watch?v=QFZgrJJjlUM
@@ -70,6 +76,21 @@ https://www.youtube.com/watch?v=CuxyZiSCSfc
 What is IPSec?   https://www.youtube.com/watch?v=tuDVWQOG0C0
 
 IPsec VPN Introduction - Video By Sikandar Shaik || Dual CCIE (RS/SP) # 35012   https://www.youtube.com/watch?v=rxKbqR_jzVA
+```
+
+### NAT and PAT
+```
+Introduction to NAT and PAT  https://www.youtube.com/watch?v=l_07u3QrmBU
+Understanding the basic of NAT and PAT   https://www.youtube.com/watch?v=Aoy0GngpC0g
+
+Introduction to NAT and PAT(full version)  https://www.youtube.com/watch?v=xkCgYaJXDSk
+
+NAT Explained | Overload, Dynamic & Static  https://www.youtube.com/watch?v=qij5qpHcbBk
+
+How Network Address Translation Works  https://www.youtube.com/watch?v=QBqPzHEDzvo
+
+WCT01-S11: Understand Proxy/Firewall/NAT/PAT Traffic Flows [WCT01: Network Analysis Overview Course]
+https://www.youtube.com/watch?v=ZUIKfNX8tA4
 ```
 
 ### 網路安全技術:防火牆 Firewall
