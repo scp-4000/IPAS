@@ -27,13 +27,13 @@ TCP/IP網路協定
 CompTIA Network+ Certification Video Course   https://www.youtube.com/watch?v=vrh0epPAC5w
 
 What is a DMZ? (Demilitarized Zone)   https://www.youtube.com/watch?v=dqlzQXo1wqo
+
 DMZ (CISSP Free by Skillset.com)   https://www.youtube.com/watch?v=8TaxrwDPEnw
 ```
 
 ### 網路設備
 ```
 Hub, Switch, & Router Explained - What's the difference?  https://www.youtube.com/watch?v=1z0ULvg_pW8
-
 ```
 
 
@@ -131,8 +131,37 @@ Honeynet and DMZ  https://www.youtube.com/watch?v=FihkG72z7MQ
 ```
 ```
 ### 2.3程式與開發安全
+
+### 程式漏洞
 ```
 ```
+### 惡意程式分析
+```
+```
+### SDLC
+```
+
+```
+### SSDLC
+```
+由資安法規與金融產業經驗 掌握 SSDLC 機制  https://www.gss.com.tw/index.php/focus/eis/156-eis81/1500-eis81-10
+
+安全的系統發展生命週期 (SSDLC)介紹
+http://itcproject1.npust.edu.tw/ISMS/Lecture/%E8%B3%87%E5%AE%89%E6%8A%80%E8%A1%93/%E5%AE%89%E5%85%A8%E7%9A%84%E7%B3%BB%E7%B5%B1%E7%99%BC%E5%B1%95%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9FSSDLC%E4%BB%8B%E7%B4%B9(%E7%AA%84%E9%A0%BB).pdf
+
+軟體安全發展流程實務 - nat.gov.tw
+http://download.nccst.nat.gov.tw/attachfilenew/%E8%AD%B0%E9%A1%8C1_%E8%BB%9F%E9%AB%94%E5%AE%89%E5%85%A8%E9%96%8B%E7%99%BC%E6%95%99%E8%82%B2%E8%A8%93%E7%B7%B4.pdf
+
+科技部推動SSDLC經驗分享
+http://www.isac.org.tw/spaw2/uploads/files/20161202/%E7%A7%91%E6%8A%80%E9%83%A8%E6%8E%A8%E5%8B%95SSDLC%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB%E7%B0%A1%E5%A0%B1.pdf
+
+
+資訊系統委外開發RFP資安需求範本   https://www.nicst.ey.gov.tw/News_Content3.aspx?n=E8A3CADF59C2DC49&sms=C254FFD10CAFF809&s=2054A0D4623FA608
+
+
+
+```
+
 # 3.資安維運技術
 ### 3.1惡意程式防護與弱點管理
 ```
