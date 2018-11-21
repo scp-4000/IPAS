@@ -4,7 +4,9 @@
 ```
 http://elesson.tc.edu.tw/md221/course/view.php?id=234
 https://www.pcsetting.com/devtools/54?page=0%2C1
-
+https://briian.com/18718/
+```
+```
 Step 1：連結至XAMPP正體中文官方網站下載頁面
 下載免安裝的XAMPP版本，
 所以會點選如下圖所示的『更多下載』，來選擇其他的XAMPP版本。
@@ -33,7 +35,18 @@ xampp-win32-x.x.xx-x-VCxx-installer.exe→安裝檔版本，
 如果你要將XAMPP安裝至電腦，可以下載此版本。
 
 ```
+```
+https://des13.com/joomla/61-joomla/425-xampp-joomla
 
+1.XAMPP預設的MySQL資料庫的最大權限root帳號沒有設定密碼
+因此可以進入網址「localhost/security/xamppsecurity.php」進行密碼設定。
+
+2.XAMPP的預設網站根目錄是在根目錄的「htdocs」目錄中，Joomla!接下來需要解壓縮在這裡面。
+
+3.XAMPP的Apache設定檔在根目錄的「apache\conf\httpd.conf」檔案。
+
+4.XAMPP的PHP設定檔是在根目錄的「php\php.ini」檔案。
+```
 ```
 設定XAMPP
 
@@ -102,7 +115,47 @@ XAMPP跟 Bitnami 彼此間有合作，以 Windows 平台來說，Bitnami 會將�
 Drupal 8 好用的 CMS 架站軟體安裝設定與使用教學
 https://www.pcsetting.com/devtools/60
 ```
+### Discuz!論壇
+```
+只要10分鐘，快速架站Discuz!論壇教學
+https://zi.media/@wuangus/post/Yu25AP
+```
+### Joomala
 
+在XAMPP下安裝Joomla！https://des13.com/joomlatech/joomla-file/425-xampp-joomla.html?start=1
+
+### 設定MySQL
+```
+1.在瀏覽器的網址輸入「localhost/phpmyadmin」，以進入資料庫登入畫面，輸入使用者名稱、密碼，選擇執行進入。
+2.選擇使用者
+3.選擇新增使用者
+4.設定帳號，主機選擇本地，設定密碼，並勾選（建立與使用者同名的資料庫並授予所有權限），全域權限點選「全選」，最後點右下角執行。
+```
+### 下載Joomla!
+```
+1.進入台灣Joomla社群網站「www.joomla.org.tw」，下載主程式和繁中語言包。
+2.將主程式解壓縮到XAMPP根目錄的htdocs目錄中（htdocs為網頁根目錄），並將資料夾名稱改成簡單一點。
+```
+### 安裝Joomla!
+```
+1.在瀏覽器的網址輸入「localhost/joomla」，會看見Joomla的安裝畫面，選擇繁體中文後按右上角的下一步。
+2.注意紅色框框部分必須都為「是」，才能順利安裝，確認後按下一步。
+3.授權規定，不猶豫直接下一步。
+4.設定Joomla的帳號、密碼，資料庫名稱輸入剛剛設定好的資料庫「hello」，按下一步。
+5.這裡直接按下一步。
+6.設定網站名稱，輸入Email帳號、Joomla的帳號及密碼，按下「安裝範例資料」，然後下一步。
+7.最後按下「移除安裝資料夾」就大功告成了!
+```
+### 安裝Joomla！繁體中文語言包
+```
+1.在瀏覽器的網址「localhost/joomla/administrator」，進入Joomla後台登入畫面，輸入帳號、密碼後，按下Log in。
+2.進入後台->Extensions->Extension Manager
+3.選擇檔案，找到下載好的Joomla繁中語言包壓縮檔，按下上傳與安裝。
+4.Extensions->Language Manager
+5.Installed-Site->將中文（繁體-台灣）設成預設
+6.Installed-Administrator->將中文（繁體-台灣）設成預設
+7.大功告成!!!
+```
 ### moodle
 
 ```
