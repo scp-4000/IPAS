@@ -1,12 +1,21 @@
 
-# 
+# DVWA - Damn Vulnerable Web Application
+```
+Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable. 
 
-sqlmap -u "//192.168.79.132/vulnerabilities/sqli/?id=1&Submit=Submit#" --cookie="PHPSESSID=austaukdtb8jq2919eideuqkp3; security=low" --current-db
+Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, 
+help web developers better understand the processes of securing web applications 
+and aid teachers/students to teach/learn web application security in a class room environment.
 
-https://blog.csdn.net/qq_32400847/article/details/53697849
+http://www.dvwa.co.uk/
+```
 
 # dvwa安裝和使用指南
 ```
+Windows版安裝過程:
+Damn Vulnerable Web App (DVWA) 1.9 滲透測試平台安裝 (Windows 7)
+http://shaurong.blogspot.com/2018/07/damn-vulnerable-web-app-dvwa-19-windows.html
+
 https://www.itread01.com/content/1502196979.html
 
 ```
@@ -46,3 +55,15 @@ Medium中級別表示代碼已經被開發人員嘗試加固過了但是加固�
 這讓開發人員能夠跟進一步認識漏洞。同時對學習者來說因為這個漏洞加大了難度要拿下這個漏洞也是一個挑戰。
 Low在個級別下所有的漏洞均沒有被修復過。你可以在這個級別下測試所有的漏洞。並且通過查看源代碼來了解漏洞是如何發生的。
 ```
+
+
+# 
+```
+https://blog.csdn.net/qq_32400847/article/details/53697849
+```
+
+# 
+
+sqlmap -u "//192.168.79.132/vulnerabilities/sqli/?id=1&Submit=Submit#" --cookie="PHPSESSID=austaukdtb8jq2919eideuqkp3; security=low" --current-db
+
+https://blog.csdn.net/qq_32400847/article/details/53697849
