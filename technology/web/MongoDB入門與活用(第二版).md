@@ -2,6 +2,13 @@ https://goo.gl/wXpBbL
 
 https://drive.google.com/drive/folders/0B-wQltXzv1wFMWhKUFM2QXVveDQ
 
+
+### MongoDB Tutorial
+```
+http://www.codedata.com.tw/database/mongodb-tutorial-1-setting-up-cloud-env/
+```
+
+# MongoDB 快速入門
 ```
 7天學會大數據資料處理—NoSQL：MongoDB入門與活用(第二版)
 書號：MP21722	作者：黃士嘉、吳佩儒 著	ISBN： 978-986-434-233-4
