@@ -2,6 +2,8 @@
 Effective Python Penetration Testing
 Rejah Rehim June 2016
 https://www.packtpub.com/networking-and-servers/effective-python-penetration-testing
+
+https://github.com/PacktPublishing/Effective-Python-Penetration-Testing
 ```
 ```
 1: PYTHON SCRIPTING ESSENTIALS
