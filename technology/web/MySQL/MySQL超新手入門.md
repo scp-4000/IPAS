@@ -31,7 +31,29 @@ https://github.com/macdidi5/MySQLTutorial
 19.效率
 
 ```
-### world範例資料庫:
+
+### 下載與安裝MySQL資料庫
+```
+http://www.codedata.com.tw/database/mysql-tutorial-database-abc-mysql-installation/
+
+下載MySQL資料庫
+https://dev.mysql.com/downloads/windows/installer/
+
+使用MySQL Workbench資料庫管理系統來
+安裝world範例資料庫與與cmdev範例資料庫
+```
+
+### MySQL Workbench資料庫管理系統
+
+```
+MySQL提供的工具軟體，在這幾年有很大的進步，目前已經把所有常用的軟體整合在一起，稱為MySQL Workbench，裡面包含：
+SQL Development：SQL開發工具，讓使用者輸入並執行SQL敘述
+Database Design Modeling：資料庫設計與模型工具
+Database Administration：資料庫管理工具
+Database Migration：資料庫轉換工具
+```
+
+### world範例資料庫
 
 建立world資料庫:https://github.com/macdidi5/MySQLTutorial/blob/master/resources/world.sql
 ```
@@ -373,3 +395,62 @@ CREATE TABLE debug (
 );
 
 ```
+
+### 2.SELECT 基礎查詢
+
+-2-1:執行下列SQL查詢指令並說明其結果:
+```
+USE world
+
+
+SELECT 'My name is Simon Johnson', 35 * 12
+
+
+SELECT * FROM city
+
+
+SELECT * FROM cmdev.emp
+
+
+SELECT * FROM city
+
+
+SELECT ID, Name
+FROM   city
+
+
+SELECT Name, ID
+FROM   city
+
+
+SELECT ID, Name, District
+FROM   city
+
+
+SELECT ename, salary, salary * 12,
+       (salary * 12) + (salary DIV 2)
+FROM   cmdev.emp
+
+
+SELECT ename, salary AS MonthSalary,
+       salary * 12 AS AnnualSalary,
+       (salary * 12) + (salary DIV 2) AnnualFullSalary
+FROM   cmdev.emp
+
+
+SELECT ename, salary * 12 AS 'Annual Salary'
+FROM   cmdev.emp
+
+
+SELECT ename, salary * 12 AS 'select'
+FROM   cmdev.emp
+```
+
+3.運算式與函式
+4.JOIN 與 UNION 查詢
+5.CRUD 與資料維護
+6.字元集與資料庫
+7.儲存引擎與資料型態
+8.表格與索引
+9.子查詢
+10.Views
