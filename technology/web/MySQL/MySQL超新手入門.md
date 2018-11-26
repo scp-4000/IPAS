@@ -398,7 +398,7 @@ CREATE TABLE debug (
 
 ### 2.SELECT 基礎查詢
 
--2-1:執行下列SQL查詢指令並說明其結果:
+>* 2-1:簡單查詢==執行下列SQL查詢指令並說明其結果:
 ```
 USE world
 
@@ -410,8 +410,9 @@ SELECT * FROM city
 
 
 SELECT * FROM cmdev.emp
-
-
+```
+>* 2-2:簡單查詢(查詢部分資料)==執行下列SQL查詢指令並說明其結果:
+```
 SELECT * FROM city
 
 
@@ -446,6 +447,274 @@ SELECT ename, salary * 12 AS 'select'
 FROM   cmdev.emp
 ```
 
+>* 2-:條件查詢(使用where)==執行下列SQL查詢指令並說明其結果:
+```
+SELECT *
+FROM   city
+
+
+SELECT *
+FROM   city
+WHERE  CountryCode = 'TWN'
+
+
+SELECT *
+FROM   city
+WHERE  Population < 800
+
+
+SELECT *
+FROM   city
+WHERE  Population <= 800
+
+
+SELECT *
+FROM   cmdev.emp
+WHERE  hiredate = '1981-09-08'
+
+
+SELECT *
+FROM   cmdev.emp
+WHERE  hiredate > '1981-09-08'
+
+
+SELECT *
+FROM   cmdev.emp
+WHERE  hiredate < '1981-09-08'
+
+
+SELECT *
+FROM   city
+WHERE  CountryCode != 'TWN'
+
+
+SELECT *
+FROM   city
+WHERE  NOT CountryCode = 'TWN'
+
+
+SELECT *
+FROM   city
+WHERE  CountryCode = 'TWN' AND Population < 100000
+
+
+SELECT *
+FROM   city
+WHERE  CountryCode = 'TWN' OR CountryCode='USA'
+
+
+SELECT Name, Continent, Population
+FROM   country
+WHERE  Continent='Europe' OR Continent='Africa' AND Population<10000
+
+
+SELECT Name, Continent, Population
+FROM   country
+WHERE  (Continent='Europe' OR Continent='Africa') AND Population<10000
+
+
+SELECT *
+FROM   city
+WHERE  Population >= 80000 AND Population <= 90000
+
+
+SELECT *
+FROM   city
+WHERE  Population BETWEEN 80000 AND 90000
+
+
+SELECT *
+FROM   city
+WHERE  Population > 80000 AND Population < 90000
+
+
+SELECT *
+FROM   city
+WHERE  Population BETWEEN 80000 AND 90000
+
+
+SELECT ename, hiredate
+FROM   cmdev.emp
+WHERE  hiredate BETWEEN '1981-01-01' AND '1981-06-30'
+
+
+SELECT *
+FROM   city
+WHERE  CountryCode = 'TWN' OR 
+       CountryCode = 'USA' OR
+       CountryCode = 'JPN' OR
+       CountryCode = 'ITA' OR
+       CountryCode = 'KOR'
+
+
+SELECT *
+FROM   city
+WHERE  CountryCode IN ('TWN','USA','JPN','ITA','KOR')
+
+
+SELECT Name, LifeExpectancy
+FROM   country
+WHERE  LifeExpectancy = NULL
+
+
+SELECT Name, LifeExpectancy
+FROM   country
+WHERE  LifeExpectancy IS NULL
+
+
+SELECT Name, LifeExpectancy
+FROM   country
+WHERE  LifeExpectancy <=> NULL
+
+
+SELECT Name, LifeExpectancy
+FROM   country
+WHERE  LifeExpectancy <> NULL
+
+
+SELECT Name, LifeExpectancy
+FROM   country
+WHERE  LifeExpectancy IS NOT NULL
+
+
+SELECT Name FROM   city WHERE  Name = 'w'
+
+
+SELECT Name
+FROM   city
+WHERE  Name LIKE 'w'
+
+
+SELECT Name
+FROM   city
+WHERE  Name LIKE 'w%'
+
+
+SELECT Name
+FROM   city
+WHERE  Name LIKE 'w%'
+
+
+SELECT Name
+FROM   city
+WHERE  Name LIKE '%w'
+
+
+SELECT Name
+FROM   city
+WHERE  Name LIKE '%w%'
+
+
+SELECT Name
+FROM   city
+WHERE  Name LIKE 'w_____'
+
+
+SELECT Name
+FROM   city
+WHERE  Name LIKE '_____w'
+
+
+SELECT Name
+FROM   city
+WHERE  Name LIKE '_____w%'
+
+
+SELECT Name
+FROM   city
+WHERE  Name LIKE '______________________________%'
+```
+
+>* 2-4:排序資料(使用ORDER BY)==執行下列SQL查詢指令並說明其結果:
+
+```
+SELECT   CountryCode, Name
+FROM     city
+ORDER BY CountryCode ASC
+
+
+SELECT   CountryCode, Name
+FROM     city
+ORDER BY CountryCode
+
+
+SELECT   CountryCode, Name
+FROM     city
+ORDER BY CountryCode DESC
+
+
+SELECT   CountryCode, Name
+FROM     city
+ORDER BY CountryCode
+
+
+SELECT   CountryCode, Name
+FROM     city
+ORDER BY CountryCode, Name
+
+
+SELECT   CountryCode, Name
+FROM     city
+ORDER BY CountryCode DESC, Name ASC
+
+
+SELECT   ename, salary * 12 AS AnnualSalary
+FROM     cmdev.emp
+ORDER BY salary * 12
+
+
+SELECT   ename, salary * 12 AS AnnualSalary
+FROM     cmdev.emp
+ORDER BY AnnualSalary
+
+
+SELECT   ename, salary * 12 AS AnnualSalary
+FROM     cmdev.emp
+ORDER BY 2
+
+
+SELECT   CountryCode, Name
+FROM     city
+ORDER BY Population
+```
+>* 2-5:限制查詢(使用Limit)==執行下列SQL查詢指令並說明其結果:
+
+```
+SELECT empno, ename 
+FROM   cmdev.emp 
+LIMIT  5
+
+
+SELECT empno, ename 
+FROM   cmdev.emp 
+LIMIT  5, 5
+
+
+SELECT   empno, ename, salary
+FROM     cmdev.emp
+ORDER BY salary DESC
+LIMIT    3
+
+
+SELECT   empno, ename, salary
+FROM     cmdev.emp
+ORDER BY salary ASC
+LIMIT    3
+
+
+SELECT Continent FROM country
+
+
+SELECT ALL Continent FROM country
+
+
+SELECT DISTINCT Continent FROM country
+```
+>* 2-2:簡單查詢==執行下列SQL查詢指令並說明其結果:
+
+```
+
+```
 3.運算式與函式
 4.JOIN 與 UNION 查詢
 5.CRUD 與資料維護
