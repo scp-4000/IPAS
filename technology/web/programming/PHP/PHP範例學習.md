@@ -226,7 +226,7 @@ showme.inc
   header("Content-type: text/html; charset=utf-8");
   if (!isset($_SERVER['PHP_AUTH_USER']))
   {
-	header('WWW-Authenticate: Basic realm="快樂網站"');
+    header('WWW-Authenticate: Basic realm="快樂網站"');
     echo "抱歉！您沒有輸入密碼！";
     exit();
   }
@@ -237,4 +237,13 @@ showme.inc
   }
   echo "抱歉！您沒有輸入密碼！";
 ?>
+```
+
+作業:
+```
+$_SERVER[]是甚麼?
+$_SERVER['PHP_AUTH_USER']會傳回甚麼資料?
+$_SERVER['PHP_AUTH_PW']會傳回甚麼資料?
+isset()函式的功能?
+WWW-Authenticate是甚麼? Basic vs Digest ?
 ```
