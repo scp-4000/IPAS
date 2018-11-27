@@ -111,7 +111,7 @@ showme.inc
 
 ### 範例程式: 前端表單設計與後端處理
 
->* 前端前端表單設計  form.html
+>* 前端表單設計  form.html
 ```
 <!doctype html>
 <html>
@@ -191,13 +191,34 @@ showme.inc
 </html>
 ```
 
-### 範例程式: PHP101_.php
->* 
+### 範例程式:自訂的HTTP Header 與PHP內建的函式header() 
+>* 前端表單  form2.html
 ```
-
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <form method="post" action="redirect.php">
+      <select name="mySelect" size="1"> 
+        <option value="https://tw.yahoo.com/">YAHOO!奇摩 
+        <option value="http://www.yam.com/">蕃薯藤 
+        <option value="https://www.google.com.tw/">Google
+      </select>
+      &nbsp;<input type="submit" value="GO!">
+    </form>
+  </body>
+</html>
 ```
-
-
+>* 後端表單處理  redirect.php
+```
+<?php
+  $URL = $_POST['mySelect'];
+  header("Location: $URL");
+  exit(); 
+?>
+```
 ### 範例程式: PHP101_.php
 >* 
 ```
