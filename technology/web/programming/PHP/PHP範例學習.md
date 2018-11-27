@@ -220,7 +220,8 @@ showme.inc
 ?>
 ```
 ### 範例程式: 使用者與密碼認證
->* 
+
+>* 用WWW-Authenticate實現登錄驗證
 ```
 <?php
   header("Content-type: text/html; charset=utf-8");
