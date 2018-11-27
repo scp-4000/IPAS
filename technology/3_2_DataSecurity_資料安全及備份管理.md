@@ -1,6 +1,6 @@
-# 3_2_DataSecurity_資料安全及備份管理BACKUP MANAGEMENT
+# 3_2_資料安全及備份管理
 
-# 參考課程
+### 參考課程
 ```
 Data Management, Recovery, Backup, Shredding & Encryption
 Recover (Undelete) deleted data, explore backup options, data sanitization and shredding, encrypt your files
@@ -20,21 +20,15 @@ An introductory course about understanding master data management, its building 
 https://www.udemy.com/master-data-management/
 ```
 ```
-Data Warehousing
+Data Warehousing 資料倉庫
 An introductory course about understanding data warehousing, its architecture, flow, applications and modeling.
-4.0 (47 個評等)
-679 名學生註冊
-建立者： The Art Of Service
-上次更新 3/2015
+4.0 (47 個評等)  679 名學生註冊  建立者： The Art Of Service  上次更新 3/2015
 https://www.udemy.com/data-warehousing/
 ```
 ```
 Data Security
 An introductory course about understanding Data Security and the different technologies involved in securing your data.
-3.8 (17 個評等)
-203 名學生註冊
-建立者： The Art Of Service
-上次更新 3/2015
+3.8 (17 個評等)  203 名學生註冊  建立者： The Art Of Service  上次更新 3/2015
 https://www.udemy.com/data-security/
 ```
 ```
@@ -51,9 +45,12 @@ Data Security Solutions
 
 https://software.microfocus.com/en-us/what-is/data-security
 ```
+### Data Security(https://en.wikipedia.org/wiki/Data_security)
 ```
-[Data Security](https://en.wikipedia.org/wiki/Data_security)
-
+Data security means protecting digital data, such as those in a database, 
+from destructive forces and from the unwanted actions of unauthorized users,such as a cyberattack or a data breach
+```
+```
 Data security refers to protective digital privacy measures 
 that are applied to prevent unauthorized access to computers, 
 databases and websites. Data security also protects data from corruption. 
@@ -65,6 +62,56 @@ What does Data Security mean?
 https://software.microfocus.com/en-us/what-is/data-security
 ```
 
+### Data Security:Technologies資料安全技術
+
+```
+[1]Disk encryption資料加密
+Disk encryption refers to encryption technology that encrypts data on a hard disk drive. 
+Disk encryption typically takes form in either software (see disk encryption software) or hardware (see disk encryption hardware). 
+Disk encryption is often referred to as on-the-fly encryption (OTFE) or transparent encryption.
+
+[2]Software versus hardware-based mechanisms for protecting data
+Software-based security solutions encrypt the data to protect it from theft. 
+However, a malicious program or a hacker could corrupt the data in order to make it unrecoverable, making the system unusable. 
+Hardware-based security solutions can prevent read and write access to data and hence offer very strong protection against tampering and unauthorized access.
+
+Hardware based security or assisted computer security offers an alternative to software-only computer security. 
+Security tokens such as those using PKCS#11 may be more secure due to the physical access required in order to be compromised. 
+Access is enabled only when the token is connected and correct PIN is entered (see two-factor authentication). 
+However, dongles can be used by anyone who can gain physical access to it. 
+Newer technologies in hardware-based security solves this problem offering full proof security for data.
+
+Working of hardware-based security: A hardware device allows a user to log in, log out and 
+set different privilege levels by doing manual actions. 
+The device uses biometric technology to prevent malicious users from logging in, logging out, and changing privilege levels. 
+The current state of a user of the device is read by controllers in peripheral devices such as hard disks. 
+
+Illegal access by a malicious user or a malicious program is interrupted based on the current state of a user 
+by hard disk and DVD controllers making illegal access to data impossible. 
+Hardware-based access control is more secure than protection provided by the operating systems 
+as operating systems are vulnerable to malicious attacks by viruses and hackers. 
+The data on hard disks can be corrupted after a malicious access is obtained. 
+With hardware-based protection, software cannot manipulate the user privilege levels. 
+It is impossible for a hacker or a malicious program to gain access to secure data protected by hardware or perform unauthorized privileged operations. This assumption is broken only if the hardware itself is malicious or contains a backdoor.
+
+The hardware protects the operating system image and file system privileges from being tampered. 
+Therefore, a completely secure system can be created using a combination of hardware-based security 
+and secure system administration policies.
+
+[3]Backups資料備份
+Backups are used to ensure data which is lost can be recovered from another source. 
+It is considered essential to keep a backup of any data in most industries 
+and the process is recommended for any files of importance to a user.
+
+[4]Data masking資料渾淆
+Data masking of structured data is the process of obscuring (masking) specific data within a database table or cell 
+to ensure that data security is maintained and sensitive information is not exposed to unauthorized personnel. 
+
+This may include masking the data from users (for example so banking customer representatives can only see the last 4 digits of a customers national identity number), developers (who need real production data to test new software releases but should not be able to see sensitive financial data), outsourcing vendors, etc. 
+
+[5]Data erasure資料清除
+Data erasure is a method of software based overwriting that completely destroys all electronic data residing on a hard drive or other digital media to ensure that no sensitive data is lost when an asset is retired or reused
+```
 ### Data masking 資料渾淆
 ```
 Data masking[1] or data obfuscation[2] is the process of hiding original data with random characters or data.
@@ -79,6 +126,32 @@ This is especially common when it comes to situations like user training and sof
 
 https://en.wikipedia.org/wiki/Data_masking
 
+```
+
+### 資料安全:What You Can Do
+```
+[資料來源]https://dzone.com/articles/why-is-data-security-important-for-everyone
+
+Remember, your awareness is your security. 
+Here, I share the essential practices you need to start doing today to protect yourself from hackers:
+
+Never click on spam, phishing, or a suspicious email. Verify or check an email or a link carefully before opening any attachment.
+
+If something seems too good to be true, it probably is. 
+Don’t fall prey to offers, such as "iPhone X at just $10" or "Congratulations! You won a car. Open attachment to claim now."
+
+Never download any untrusted or pirated software or application.
+
+Don’t download fake security software.
+
+Use antivirus and/or firewalls
+
+Don’t make any online transactions if the website is not secured. 
+Check HTTPS or green address bar before making any payment or typing in any sensitive details
+
+Use two-factor authentications.
+
+Don’t share your personal or sensitive information to strangers.
 ```
 
 # 資料不安全事件
