@@ -60,16 +60,20 @@ databases and websites. Data security also protects data from corruption.
 Data security is an essential aspect of IT for organizations of every size and type.
 
 Data security is also known as information security (IS) or computer security.
-```
 
-### Data masking
-```
 What does Data Security mean?
 https://software.microfocus.com/en-us/what-is/data-security
+```
+
+### Data masking 資料渾淆
+```
+Data masking[1] or data obfuscation[2] is the process of hiding original data with random characters or data.
 
 [Data Masking](https://www.techopedia.com/definition/13602/data-masking)
-Data masking refers to the process of changing certain data elements within a data store so that the structure remains similar 
+Data masking refers to the process of changing certain data elements within a data store 
+so that the structure remains similar 
 while the information itself is changed to protect sensitive information. 
+
 Data masking ensures that sensitive customer information is unavailable beyond the permitted production environment. 
 This is especially common when it comes to situations like user training and software testing.
 
@@ -81,4 +85,54 @@ https://en.wikipedia.org/wiki/Data_masking
 
 # 備份管理BACKUP MANAGEMENT
 
-# 備份類型
+## 備份 https://en.wikipedia.org/wiki/Backup
+```
+https://zh.wikipedia.org/wiki/%E5%A4%87%E4%BB%BD
+
+在資訊科技與資料管理領域，備份指將檔案系統或資料庫系統中的資料加以複製；
+
+一旦發生災難或錯誤操作時，得以方便而及時地恢復系統的有效資料和正常運作。
+
+最好將重要資料製作三個，或三個以上的備份，並且放置在不同的場所異地備援，以利日後回存之用。
+```
+## 備份類型
+```
+全部備份（Full Backup）==>把硬碟或資料庫內的所有檔案、資料夾或資料作一次性的複製。
+增量備份（Incremental Backup）==>對上一次全部備份或增量備份後更新的資料進行備份。
+差異備份 (Differential backup) ==>差異備份提供執行完整備份後變更的檔案的備份
+選擇式備份==>對系統的一部分進行備份。
+冷備份==>系統處於停機或維護狀態下的備份。這種情況下，備份的資料與系統中此時段的資料完全一致。
+熱備份==>系統處於正常運轉狀態下的備份。這種情況下，由於系統中的資料可能隨時在更新，備份的資料相對於系統的真實資料可有一定滯後。
+```
+## 備份類型
+```
+線上備份 (On-line Backup) : 需要及時還原的資料可以採用這總類型的備份，可以使用磁碟陣列、存儲區域網路、網路附加儲存或者是網路硬碟來保護資料安全。
+離線備份 (Off-line Backup ): 離線備份使用可離線媒體來備份，磁帶、光碟或是硬碟盒備份完成後離開備份媒體。
+```
+
+## 各種資料處理的技術
+```
+在實施備份的過程中，可以對資料進行各種處理，這些不同的處理方式可以改善備份速度，恢復速度，增加資料安全性，提升儲存媒介的利用率。
+
+資料壓縮技術（Compression）：通過各種機制來降低備份資料的大小，以便占用更少的儲存空間，壓縮的方法在磁帶儲存中尤為常見。
+
+資料重複刪除技術（De-duplication）：當多個相似系統的資料要備份到同一台儲存裝置上時，需要重複備份資料，這會產生大量的冗餘。
+例如，有20個Windows工作站要備份到同一台儲存裝置上，備份資料就可以共用系統檔案。
+儲存裝置上只需要一份系統檔案，就可以用來恢復多個工作站。這項技術可以應用在檔案級，也可以應用在未經處理的資料塊級，
+通過避免冗餘資料的重複複製，可以大大節省儲存裝置的儲存空間。重複資料刪除技術可以發生在伺服器端，在資料備份到儲存之前執行，
+這種方法可以在節省儲存空間的同時節省備份資料的頻寬需求，這種方式的重複資料刪除叫做線上即時資料處理（inline）；
+重複資料刪除技術也可以發生在儲存裝置端，稱之為後台重複資料刪除技術。
+
+資料複製技術（Duplication）：在備份的過程中，資料有可能需要額外備份到第二組儲存裝置；
+通過將備份資料複製，可以調整備份鏡像來最佳化恢復速度，而且可以將第二份備份資料存放在不同的備份地點，或不同的備份媒介上。
+
+資料加密技術（Encryption）：對於大容量的抽取式的備份儲存媒介，例如磁帶，會面臨遺失和被盜的風險。
+通過對資料加密可以降低上述風險，
+但是也帶來了另外的問題：首先，加密會占用大量的CPU行程，從而降低了備份速度；
+其次，資料被加密之後，就不能有效地壓縮，例如某些磁帶驅動器的資料壓縮技術無法實施。
+基於上述原因，以及冗餘資料導致解密分析供給更加容易，很多加密技術都在實施之前進行壓縮；最後，加密技術要成功起作用，必須配合整體的安全策略通盤考慮。
+
+資料緩衝技術（Staging）：利用資料緩衝技術，備份資料在複製到磁帶之前，會先複製到緩衝磁碟，這個操作稱之為D2D2T，磁碟到磁碟到磁帶。
+資料緩衝技術（虛擬帶庫技術）在基於網路的備份系統中尤為重要，因為D2D2T技術可以緩解系統對於備份頻寬的需求。
+如果備份系統中需要執行其他的資料操作，緩衝磁碟還可以起到資料中心的作用。
+```
