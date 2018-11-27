@@ -119,7 +119,7 @@ showme.inc
     <meta charset="utf-8">
   </head>
   <body>
-    <form>
+    <form method="post" action="confirm.php">
       姓&nbsp;&nbsp;&nbsp;名：<input type="text" name="UserName" size="40"><br>
       E-Mail：<input type="text" name="UserMail" size="40" value="username@mailserver"><br>
       年&nbsp;&nbsp;&nbsp;齡：
@@ -147,6 +147,7 @@ showme.inc
     </form>
   </body>
 </html>
+
 ```
 >* 後端表單處理  form.html
 ```
