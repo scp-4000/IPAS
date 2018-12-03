@@ -1,3 +1,17 @@
+# 同學分享的解題
+```
+資訊安全管理
+第一章
+
+第二章
+
+第三章 https://wilsonaudio.nativedsd.com/new_browse
+
+第四章 https://www.youtube.com/watch?v=4YV91ylyDSU
+
+第五章-法規遵循與資訊倫理  https://www.youtube.com/watch?v=hURimlurAoU&feature=youtu.be
+
+```
 # 107/12/8(六)經濟部初級能力鑑定考試
 
 有關本次考試，煩請協助轉知考生留意以下事項：
