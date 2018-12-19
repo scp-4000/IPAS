@@ -1,3 +1,9 @@
+
+# 政府資通安全防護巡迴研討會
+
+http://download.nccst.nat.gov.tw/attachfilehandout/%E8%AD%B0%E9%A1%8C%E4%BA%8C%EF%BC%9A107_OWASP_TOP10_2017.pdf
+
+
 # 107/12/8(六)經濟部初級能力鑑定考試 
 ```
 1.關於考試通知：報考系統已開放『列印准考證考試通知』，考試通知上有當日應考完整資訊，考生可自行下載列印。
