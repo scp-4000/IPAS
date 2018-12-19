@@ -1,3 +1,14 @@
+# nikto
+
+nikto -h
+
+nikto -h hackthissite.org
+
+https://www.openfoundry.org/en/foss-projects/8450-open-source-web-security-scaning-tool-nikto
+
+
+https://hk.saowen.com/a/b6ed8ed5e98b9082b8d89ebf5a66f73d26e0d4b1627f4e3a1cf78086d5c43dac
+
 
 # 政府資通安全防護巡迴研討會
 
