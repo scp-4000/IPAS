@@ -29,10 +29,14 @@
 
 2.作業系統與應用程式安全
   2.1.作業系統安全:windows作業系統| Linux作業系統 
-     2.1.1.windows作業系統安全
-     2.1.2.Linux作業系統安全
+     2.1.1.windows作業系統|Windows指令|Sysinternals|Powershell技術
+     2.1.2.windows作業系統安全--Windows XP滲透測試
+     2.1.3.Linux作業系統與The Linux Command Line
+     2.1.4.Linux作業系統安全--Metasploitable滲透測試
+     
   2.2.作業系統與應用程式 (含資料庫與網頁)攻擊手法
-    2.2.1.作業系統攻擊手法分析
+    2.2.1.作業系統攻擊手法分析:rootkits vs anti-rootkits
+       https://recover.pixnet.net/blog/post/4535973-anti-rootkits-%E5%B7%A5%E5%85%B7%E6%95%B4%E8%A3%A1%E5%8C%85
     2.2.2.網站安全--
         網頁攻擊手法分析:OWASP TOP 10
         SQL injection攻擊手法分析 
