@@ -100,8 +100,9 @@ https://nicst.ey.gov.tw/
 ```
 1.資訊安全管理概念
   1.1.CIA::機密性、完整性與可用性定義
-  1.2.資訊安全管理系統(ISMS:)
-
+  1.2.資訊安全管理系統(ISMS:)ISO 27001| 27002| CNS 27001
+       CNS 27001為經濟部標準檢驗局發佈之中華民國國家標準（Chinese National Standards, CNS），
+       內容參考ISO 27001不變更技術內容修訂而成，可將其視為ISO 27001的中文翻譯版本
 2.資產管理(asset management)與風險管理(Risk management)
   2.1.資產分類分級與盤點
   2.2.風險評鑑與風險處理
