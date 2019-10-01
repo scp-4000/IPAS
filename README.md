@@ -70,6 +70,7 @@
        https://www.owasp.org/images/3/3f/OWASP_Cloud_Top_10.pdf
        The Serverless Security Top 10 Most Common Weaknesses Guide(2018)
        OWASP Cloud Testing Guide [https://www.owasp.org/images/a/aa/OWASPCloudTestingMar19.pdf]
+       
   4.2.行動裝置安全概論Mobile security
     4.2.1.行動裝置安全
     4.2.2.Mobile 攻擊手法分析:OWASP Mobile Top 10(2016)
@@ -78,6 +79,7 @@
           Mobile Security Testing Guide
           Mobile Application Security Verification Standard
           Mobile Security Checklist
+          
   4.3.物聯網安全概論IOT security
    4.3.1.物聯網 IOT(Internet of Thing)==>Internet of Threat
    4.3.2.物聯網攻擊手法分析:OWASP IOT TOP 10(2018)
