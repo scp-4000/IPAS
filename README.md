@@ -39,7 +39,7 @@ https://nicst.ey.gov.tw/
      2.1.1.windows作業系統|Windows指令|Sysinternals|Powershell技術
      2.1.2.windows作業系統安全--Windows XP滲透測試
      2.1.3.Linux作業系統與The Linux Command Line
-     2.1.4.Linux作業系統安全--Metasploitable滲透測試
+     2.1.4.Linux作業系統安全--Metasploitable 2滲透測試
      
   2.2.作業系統與應用程式 (含資料庫與網頁)攻擊手法
     2.2.1.作業系統攻擊手法分析:rootkits vs anti-rootkits
