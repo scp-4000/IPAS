@@ -12,6 +12,10 @@
 周末加強班:待公布
 
 考試日期:2019年12月8日
+
+【初級能力鑑定】參考書目
+資訊安全概論 第二版 (旗標)https://www.flag.com.tw/books/product_s/F7805A
+資訊與網路安全：基礎系統資訊安全技術與實務 (博碩)http://www.drmaster.com.tw/bookinfo.asp?BookID=EU31303 
 ```
 ## 資訊安全技術概論
 ```
