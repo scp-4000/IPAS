@@ -16,18 +16,21 @@
 【初級能力鑑定】參考書目
 資訊安全概論 第二版 (旗標)https://www.flag.com.tw/books/product_s/F7805A
 資訊與網路安全：基礎系統資訊安全技術與實務 (博碩)http://www.drmaster.com.tw/bookinfo.asp?BookID=EU31303 
+
+行政院國家資通安全會報National Information & Communication Security Taskforce
+https://nicst.ey.gov.tw/
 ```
 ## 資訊安全技術概論
 ```
 1.網路與通訊安全
-  1.1.網路安全
+  1.1.網路安全Network Security
     1.1.1.網路概論
     1.1.2.網路協定
     1.1.3.網路封包分析---使用wireshark
     1.1.4.網路攻擊手法分析
     1.1.5.網路防御實戰(1)---防火牆技術(Firewall)
     1.1.6.網路防御實戰(2)---入侵偵測系統實戰(intrusion detection system|snort)
-  1.2.通訊安全
+  1.2.通訊安全Communications Security (COMSEC)
     1.2.1 無線網路
     1.2.2.無線網路攻擊手法分析
 
