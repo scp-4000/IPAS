@@ -2,7 +2,11 @@
 ```
 ip -4 a
 ```
+#
+```
+wireshark &
 
+```
 # hping3
 ```
 https://man.linuxde.net/hping3
