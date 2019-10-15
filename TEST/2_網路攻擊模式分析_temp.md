@@ -52,8 +52,9 @@ A. Encrypted web traffic
 B. Filtering user input
 C. A firewall
 D. An IDS
-7. You are responsible for network security at Acme Company. Users have been reporting
-that personal data is being stolen when using the wireless network. They all insist they
+
+7. You are responsible for network security at Acme Company. 
+Users have been reporting that personal data is being stolen when using the wireless network. They all insist they
 only connect to the corporate wireless access point (WAP). However, logs for the WAP
 show that these users have not connected to it. Which of the following could best explain
 this situation?
@@ -61,12 +62,13 @@ A. Session hijacking
 B. Clickjacking
 C. Rogue access point
 D. Bluejacking
-8. What type of attack depends on the attacker entering JavaScript into a text area that is
-intended for users to enter text that will be viewed by other users?
+
+8. What type of attack depends on the attacker entering JavaScript into a text area that is intended for users to enter text that will be viewed by other users?
 A. SQL injection
 B. Clickjacking
 C. Cross-site scripting
 D. Bluejacking
+
 9. A sales manager at your company is complaining about slow performance on his computer.
 When you thoroughly investigate the issue, you find spyware on his computer. He
 insists that the only thing he has downloaded recently was a freeware stock trading application.
@@ -75,6 +77,7 @@ A. Logic bomb
 B. Trojan horse
 C. Rootkit
 D. Macro virus
+
 10. Your company outsourced development of an accounting application to a local programming
 firm. After three months of using the product, one of your accountants accidently
 discovers a way to log in and bypass all security and authentication. What best describes
@@ -92,6 +95,7 @@ A. It is a result of social engineering.
 B. The machines all have backdoors.
 C. The machines are bots.
 D. The machines are infected with crypto-viruses.
+
 12. Mike is a network administrator with a small financial services company. He has received
 a popup window that states his files are now encrypted and he must pay .5 bitcoins to get
 them decrypted. He tries to check the files in question, but their extensions have changed,
@@ -100,6 +104,7 @@ A. Mike’s machine has a rootkit.
 B. Mike’s machine has ransomware.
 C. Mike’s machine has a logic bomb.
 D. Mike’s machine has been the target of whaling.
+
 13. Terrance is examining logs for the company e-commerce web server. He discovers a number
 of redirects that cannot be explained. After carefully examining the website, he finds
 some attacker performed a watering hole attack by placing JavaScript in the website and is
@@ -109,12 +114,14 @@ A. An SPI firewall
 B. An active IDS/IPS
 C. Checking buffer boundaries
 D. Checking user input
+
 14. What type of attack is based on sending more data to a target variable than the data can
 actually hold?
 A. Bluesnarfing
 B. Buffer overflow
 C. Bluejacking
 D. DDoS
+
 15. You have been asked to test your company network for security issues. The specific test
 you are conducting involves primarily using automated and semiautomated tools to look
 for known vulnerabilities with the various systems on your network. Which of the following
@@ -126,14 +133,13 @@ D. Security test
 
 16. Jared discovers that attackers have breached his WiFi network. They have gained access
 via the wireless access point (WAP) administrative panel, and have logged on with the
-credentials
-the WAP shipped with. What best describes this issue?
+credentials the WAP shipped with. What best describes this issue?
 A. Default configuration
 B. Race conditions
 C. Failure to patch
 D. Weak encryption
-17. Joanne is concerned about social engineering. She is particularly concerned that this technique
-could be used by an attacker to obtain information about the network, including
+
+17. Joanne is concerned about social engineering. She is particularly concerned that this technique could be used by an attacker to obtain information about the network, including
 possibly even passwords. What countermeasure would be most effective in combating
 social engineering?
 A. SPI firewall
