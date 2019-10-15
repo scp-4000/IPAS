@@ -14,7 +14,14 @@ A.網路安全實戰
 ```
 Linux基本指令與Linux CTF
 Kali linux
+
 Linux網路防火牆攻防實務
+Ubuntu 用 ufw 指令快速啟用和設定防火牆
+https://www.arthurtoday.com/2013/12/ubuntu-ufw-add-firewall-rules.html
+
+http://linux.vbird.org/linux_server/0250simple_firewall.php
+
+
 Linux網路入侵偵測系統攻防實務
 
 B.系統安全實戰
@@ -37,6 +44,9 @@ Buffer overflow
 惡意程式防護
 
 ROOTKIT HUNTER
+Ubuntu 安裝與使用 Rootkit 掃描程式
+https://www.arthurtoday.com/2012/01/ubuntu-rootkit-scanner.html
+
 
 惡意程式防護之防毒軟體 WIDOWS defender
 惡意程式防護之防毒軟體 Linux 
