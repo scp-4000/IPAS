@@ -30,3 +30,33 @@ Which of the following ==下列何者
 is suspicious(懷疑) of
 答案:C
 ```
+# 5
+```
+5. Juanita is a network administrator for a small accounting firm. 
+The users on her network are complaining(抱怨) of slow connectivity(很慢的連線). 
+When she examines the firewall logs(日誌), she observes a large number of half-open connections. 
+
+What best describes this attack?
+A. DDoS
+B. SYN flood
+C. Buffer overflow
+D. ARP poisoning
+```
+```
+a large number of half-open connections==一堆半開放的連線
+
+答案:B  syn flood
+```
+
+# 10
+```
+10. Your company outsourced(外包) development of an accounting application 
+to a local programming firm. After three months of using the product, one of your accountants(會計師) accidently discovers a way to log in(登入) and bypass(繞過) all security and authentication(認證). 
+
+What best describes this?
+A. Logic bomb 邏輯炸彈
+B. Trojan horse
+C. Backdoor 後門程式
+D. Rootkit
+```
+
