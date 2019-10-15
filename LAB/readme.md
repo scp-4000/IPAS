@@ -5,6 +5,13 @@ A.網路安全實戰
 2.Wireshark封包側錄與分析
 3.基礎協定分析:DNS/TCP/UDP/IP
 
+惡意流量分析synflood攻擊流量分析
+
+惡意流量分析
+題目:http://www.malware-traffic-analysis.net/2019/08/20/index.html
+參考解答:http://www.malware-traffic-analysis.net/2019/08/20/page2.html
+```
+```
 Linux基本指令與Linux CTF
 Kali linux
 Linux網路防火牆攻防實務
