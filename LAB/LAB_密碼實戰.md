@@ -48,6 +48,12 @@ password
 
 ```
 ### 密碼學
+
+```
+Cryptography with Python Tutorial
+
+https://www.tutorialspoint.com/cryptography_with_python/index.htm
+```
 ```
 
 Practical-Cryptography
