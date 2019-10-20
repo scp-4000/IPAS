@@ -87,3 +87,49 @@ https://www.howtogeek.com/427480/how-to-back-up-your-linux-system/
     3.3.3.Linux作業系統日誌及其管理
     3.3.4.Apache網站伺服器日誌及其管理
 ```
+### 密碼學
+```
+
+Practical-Cryptography
+Encryption and Decryption Algorithms for various ciphers in Python:
+http://www.allitebooks.org/practical-cryptography-in-python/
+```
+```
+https://github.com/IronVenom/Practical-Cryptography
+
+
+Encoding Schemes
+Base64 ( with singular and double padding. )
+
+Substitution Ciphers
+Simple Substitution Cipher
+Caesar Cipher
+ROT13 Cipher
+Atbash Cipher
+Baconian Cipher
+Cracking Ciphers: Cryptanalysis
+Caesar Cipher
+```
+```
+
+https://cryptobook.nakov.com/
+https://github.com/nakov/Practical-Cryptography-for-Developers-Book
+
+```
+```
+Practical Cryptography in Python
+Learning Correct Cryptography by Example
+
+https://www.apress.com/gp/book/9781484248997
+http://www.allitebooks.org/practical-cryptography-in-python/
+```
+### IOT物聯網安全
+```
+
+Defending IoT Infrastructures with the Raspberry Pi
+Monitoring and Detecting Nefarious Behavior in Real Time
+Authors: Hosmer, Chet© 2018
+
+https://www.apress.com/us/book/9781484236994
+http://www.allitebooks.org/defending-iot-infrastructures-with-the-raspberry-pi/
+```
