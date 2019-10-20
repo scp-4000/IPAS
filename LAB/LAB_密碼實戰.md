@@ -1,3 +1,23 @@
+# Hash
+
+```
+import hashlib
+md5hasher = hashlib.md5()
+md5hasher.hexdigest()
+'d41d8cd98f00b204e9800998ecf8
+```
+```
+import hashlib
+md5hasher = hashlib.md5(b'alice')
+md5hasher.hexdigest()
+```
+```
+import hashlib
+hashlib.md5(b'alice').hexdigest()
+hashlib.sha1(b'alice').hexdigest()
+hashlib.sha256(b'alice').hexdigest()
+```
+
 # 作業
 
 
